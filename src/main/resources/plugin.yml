@@ -1,0 +1,4 @@
+name: MeuPlugin
+version: 1.0
+main: com.exemplo.MeuPlugin
+api-version: 1.21
